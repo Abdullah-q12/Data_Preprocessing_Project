@@ -1,7 +1,7 @@
-# PAI Assignment 03 – Image & Audio Preprocessing
+##Image & Audio Preprocessing
 
-This repository contains my implementation of Assignment #03
-for AI2822 Programming for AI.
+This repository contains projects on **image and video preprocessing**, demonstrating data handling, cleaning, and preparation techniques using Python.
+
 
 ## Contents
 - Image preprocessing pipeline using PyTorch

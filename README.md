@@ -1,6 +1,6 @@
-##Image & Audio Preprocessing
+# Image & Audio Preprocessing
 
-This repository contains projects on **image and video preprocessing**, demonstrating data handling, cleaning, and preparation techniques using Python.
+This repository contains projects on **image and Audio preprocessing**, demonstrating data handling, cleaning, and preparation techniques using Python.
 
 
 ## Contents
